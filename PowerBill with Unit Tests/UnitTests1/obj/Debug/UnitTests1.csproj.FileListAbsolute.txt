@@ -1,0 +1,16 @@
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\UnitTests1.dll
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\UnitTests1.pdb
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\CPRG200LAB1IVAN.exe
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\CPRG200LAB1IVAN.pdb
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\CPRG200LAB1IVAN.exe.config
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\obj\Debug\UnitTests1.csprojAssemblyReference.cache
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\obj\Debug\UnitTests1.csproj.CopyComplete
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\obj\Debug\UnitTests1.dll
+C:\Users\565974\source\repos\CPRG200LAB1IVAN\UnitTests1\obj\Debug\UnitTests1.pdb

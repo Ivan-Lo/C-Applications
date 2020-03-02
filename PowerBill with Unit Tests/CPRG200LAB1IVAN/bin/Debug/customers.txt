@@ -1,0 +1,15 @@
+1,bob,R,120
+2,sam,R,500
+1,walla,I,0
+2,walla,I,120
+1,waaal,I,120
+1,waaal,I,120
+1,awdfa,R,16.400
+23,Cj,R,16.400
+2,sad,C,60.00
+56655,asdfl,I,40.00
+56655,asdfl,I,40.00
+525,ddd,I,40.00
+5255,dddlll,I,40.00
+52552,dddlll,I,40.056
+55,asdf,R,16.400
